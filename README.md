@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # E-Gram Vikas Portal
 
 A full-stack MERN web application for village e-governance services.
@@ -25,3 +26,7 @@ A full-stack MERN web application for village e-governance services.
 
 ## License
 MIT
+=======
+# e-gram
+🌾 E-Gram Vikas Portal is a MERN-based role-driven digital governance system. Citizens can register complaints, apply for certificates, request garbage pickup &amp; view schemes. Admins manage services, workers update tasks, all with real-time dashboards, JWT auth &amp; MongoDB integration for transparent, efficient governance.
+>>>>>>> bea7a792a967ef5cc3fdaed05357939078b92c20
